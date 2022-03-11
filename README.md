@@ -10,3 +10,6 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |5.Rothko Painting |HTML/CSS Box Model|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Rothko-Painting/index.html)|
 |6.Photo Gallery |HTML/CSS Flexbox|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Photo-Gallery/index.html)|
 |7.Nutrition Label |HTML/CSS Typography|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Nutrition-Label/index.html)|
+|8.Accessibility Quiz |HTML/CSS(Accessibility)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Accessibility-Quiz/index.html)|
+|9.A Balance Sheet |HTML/CSS(Pseudoselectors)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html)|
+|10.Picasso Painting |HTML/CSS(Intermediate)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)|
