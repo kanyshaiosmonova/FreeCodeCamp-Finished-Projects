@@ -13,7 +13,7 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |8.Accessibility Quiz |HTML/CSS(Accessibility)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Accessibility-Quiz/index.html)|
 |9.A Balance Sheet |HTML/CSS(Pseudoselectors)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Balance-Sheet/index.html)|
 |10.Picasso Painting |HTML/CSS(Intermediate)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)|
-|11.Responsive Web Design Piano |HTML/CSS(zresponsive)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
+|11.Responsive Web Design Piano |HTML/CSS(responsive)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
 |12.City Skyline |HTML/CSS(variables)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)|
 
 
