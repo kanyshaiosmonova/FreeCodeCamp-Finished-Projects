@@ -15,6 +15,7 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |10.Picasso Painting |HTML/CSS(Intermediate)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)|
 |11.Responsive Web Design Piano |HTML/CSS(responsive)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Piano/index.html)|
 |12.City Skyline |HTML/CSS(variables)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/City-Skyline/index.html)|
+|13.Grid Magazine|HTML/CSS(Grid)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Grid-Magazine/index.html)|
 
 
 
