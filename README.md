@@ -19,3 +19,12 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |14.Penguin |HTML/CSS(Transform)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Penguin/index.html)|
 |15.Ferris Wheel |HTML/CSS(Animation)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Ferris-Wheel/index.html)
 
+# Certification Projects
+FreeCodeCamp Responsive Web Design (Beta) course
+|**Project's Name💻**|**:link:**|**:link:**|
+|-----------------------------|----------------------------|------------------------|
+|1.Survey Form|[Github Pages]()|[Codepen Link]()|
+|2.Tribute Page|[Github Pages]()|[Codepen Link]()|
+|3.Technical Documentation Page|[Github Pages]()|[Codepen Link]()|
+|4.Product Landing Page|[Github Pages]()|[Codepen Link]()|
+|5.Personal Portfolio Web Page|[Github Pages]()|[Codepen Link]()|
