@@ -28,3 +28,12 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |3.Technical Documentation Page|[Github Pages]()|[Codepen Link]()|
 |4.Product Landing Page|[Github Pages]()|[Codepen Link]()|
 |5.Personal Portfolio Web Page|[Github Pages]()|[Codepen Link]()|
+
+## Front End Development Libraries Projects  
+|**Project's Name💻**|**:link:**|**:link:**|
+|-----------------------------|----------------------------|------------------------|
+|1.Build a Random Quote Machine |[Github Pages]()|[Codepen Link]()|
+|2.Build a Markdown Previewer|[Github Pages]()|[Codepen Link]()|
+|3.Build a Drum Machine |[Github Pages]()|[Codepen Link]()|
+|4.Build a Javascript Calculator |[Github Pages]()|[Codepen Link]()|
+|5.Build a 25 + 5 Clock|[Github Pages]()|[Codepen Link]()|
