@@ -1,2 +1,2 @@
 My seventh Project on FreeCodeCamp.org built with HTML/CSS
-[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Nutrition-Label/index.html)
+[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Nutrition-Label/index.html)

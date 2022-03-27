@@ -1,2 +1,2 @@
 My 14th Project on FreeCodeCamp.org built with HTML/CSS(Transform)
-[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Penguin/index.html)
+[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Penguin/index.html)

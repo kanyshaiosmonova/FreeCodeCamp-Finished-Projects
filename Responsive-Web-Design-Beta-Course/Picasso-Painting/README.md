@@ -1,2 +1,2 @@
 My tenth Project on FreeCodeCamp.org built with HTML/CSS
-[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Picasso-Painting/index.html)
+[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Picasso-Painting/index.html)
