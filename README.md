@@ -18,7 +18,7 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |13.Grid Magazine|HTML/CSS(Grid)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Grid-Magazine/index.html)|
 |14.Penguin |HTML/CSS(Transform)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Penguin/index.html)|
 |15.Ferris Wheel |HTML/CSS(Animation)|[Deployed link](https://kanyshaiosmonova.github.io/FreeCodeCamp-Finished-Projects/Responsive-Web-Design-Beta-Course/Ferris-Wheel/index.html)
-
+<!--
 # Certification Projects
 FreeCodeCamp Responsive Web Design (Beta) course
 |**Project's Name💻**|**:link:**|**:link:**|
@@ -37,3 +37,4 @@ FreeCodeCamp Responsive Web Design (Beta) course
 |3.Build a Drum Machine |[Github Pages]()|[Codepen Link]()|
 |4.Build a Javascript Calculator |[Github Pages]()|[Codepen Link]()|
 |5.Build a 25 + 5 Clock|[Github Pages]()|[Codepen Link]()|
+-->
